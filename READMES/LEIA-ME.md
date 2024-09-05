@@ -7,13 +7,13 @@ Um preditor de filmes baseado em dados
 ## Aviso
 Usamos o The Movie Database neste projeto, você precisará de uma chave de API para executar.
 
-Obtenha suas chaves aqui: https://www.themoviedb.org/settings/api/
+Obtenha suas chaves aqui: https://developer.themoviedb.org/docs/getting-started
 
 Crie um arquivo ```.env``` na raiz do projeto e copie o conteúdo de ```.env.example```, colocando suas respectivas chaves.
 
 ---
 
-## Para rodar
+## Para executar
 
 - Instalando dependências:
 
@@ -27,7 +27,7 @@ yarn i --production
 yarn start
 ```
 
-## Para rodade em desenvolvimento
+## Para executar em desenvolvimento
 
 - Instalando dependências:
 

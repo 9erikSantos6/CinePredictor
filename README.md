@@ -7,7 +7,7 @@ A data-driven movie predictor.
 ## Notice
 We use The Movie Database in this project, you will need an API key to run.
 
-Get your keys here: https://www.themoviedb.org/settings/api/
+Get your keys here: https://developer.themoviedb.org/docs/getting-started
 
 Create a ```.env``` file in the project root, and copy the contents of ```.env.example```, placing their respective keys.
 
